@@ -16,7 +16,7 @@ Create a new SearXNG  instance in five minutes using Docker
 - Get searxng-docker
   ```sh
   cd /usr/local
-  git clone https://github.com/searxng/searxng-docker.git
+  git clone https://github.com/sounddrill31/searxng-docker.git
   cd searxng-docker
   ```
 - Edit the [.env](https://github.com/searxng/searxng-docker/blob/master/.env) file to set the hostname and an email
